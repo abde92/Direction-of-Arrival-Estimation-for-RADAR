@@ -5,6 +5,8 @@ Created on Wed Jun  3 13:57:05 2020
 @author: ABDERRAHIM
 """
 
+print("zddti hadi ana")
+
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.linalg as LA
