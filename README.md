@@ -10,4 +10,4 @@ You will find in this repository :
 
 
 
-* If you are interested in collaborating or need some clarification on this repository, contact me on: abd.belissaoui@gmail.com
+* If you are interested in collaborating or need some clarification on this repository, feel free to reach out: abd.belissaoui@gmail.com
